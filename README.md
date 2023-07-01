@@ -1,1 +1,1 @@
-# https://github.com/LittleMeo/rsschool-cv/blob/gh-pages/cv.md
+https://LittleMeo.github.io/rsschool-cv/cv
