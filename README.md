@@ -1,1 +1,0 @@
-https://LittleMeo.github.io/rsschool-cv/cv
