@@ -1,6 +1,6 @@
 # Arthur Antypenko
-## Contact information 
-mail: cotikgg@gmail.com , discord:Cotodemon , gitHub:LittleMeo .
+## Contact information
+mail: cotikgg@gmail.com , discord:Cotodemon , gitHub:LittleMeo.
 ## Brief information about me
 I want to become a back-end (and possibly full stack) developer in order to work remotely and help people from all over the world.
 ## Skills
