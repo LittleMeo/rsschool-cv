@@ -1,0 +1,16 @@
+/* body{
+    border: 5px solid purple;
+    border-radius: 4px;
+}*/
+p img{
+    height: 300px;
+    float: left;
+    margin-right: 150px;
+}
+h1{
+    border-top: 5px solid purple;
+    padding-top: 20px;
+    margin-left: 330px;
+    margin-right: 20px;
+    font-size: 100px;
+}
